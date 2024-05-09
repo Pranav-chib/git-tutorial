@@ -1,9 +1,9 @@
 ---
 title: "GitHub Tutorial"
 subtitle: "Introduction to Git and GitHub"  
-author: "Javed Ali"
-role: PhD Student
-company: 'University of Central Florida'
+author: ""
+role: 
+company: 
 date: "`r format(Sys.Date(), format='%d %B %Y')`"
 output:
   xaringan::moon_reader:
@@ -716,13 +716,13 @@ class: pink, middle, center
    meta_viewport() %>%
    meta_social(
      title = "",
-     url = "https://javedali.net/",
-     image = "https://www.javedali.net/author/avatar_hufffe226e957f1b2290d587dc7c95d8a4_871284_270x270_fill_lanczos_center_2.PNG",
+     url = "",
+     image = "",
      image_alt = "Vintage valentine",
      og_type = "website",
-     og_author = "Javed Ali",
+     og_author = "",
      twitter_card_type = "summary",
-     twitter_creator = "@javedali99"
+     twitter_creator = ""
    )
    
 ```
